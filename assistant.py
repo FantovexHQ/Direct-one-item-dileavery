@@ -14,7 +14,7 @@
       --emerald: #00FF87;
       --white: #FFFFFF;
       --silver: #A0A0A0;
-    
+    }
 
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
